@@ -1,4 +1,4 @@
-git push -u origin master# El TRÍPTICO
+# El TRÍPTICO
 ##### ***by BohemianCode***
 
 En el presente repositorio presentamos el ejercicio llamado **EL TRÍPTICO**
